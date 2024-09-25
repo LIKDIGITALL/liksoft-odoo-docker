@@ -22,3 +22,4 @@ barcode
 python-barcode
 pdfkit
 unoconv
+redis
